@@ -1,0 +1,881 @@
+{
+    "Control": {
+        "Title": "\u9707\u6e90\u30fb\u9707\u5ea6\u306b\u95a2\u3059\u308b\u60c5\u5831",
+        "DateTime": "2021-07-09T20:28:33Z",
+        "Status": "\u901a\u5e38",
+        "EditorialOffice": "\u6c17\u8c61\u5e81\u672c\u5e81",
+        "PublishingOffice": "\u6c17\u8c61\u5e81"
+    },
+    "Head": {
+        "Title": "\u9707\u6e90\u30fb\u9707\u5ea6\u60c5\u5831",
+        "ReportDateTime": "2021-07-10T05:28:00+09:00",
+        "TargetDateTime": "2021-07-10T05:28:00+09:00",
+        "EventID": "20210710052352",
+        "InfoType": "\u767a\u8868",
+        "Serial": "1",
+        "InfoKind": "\u5730\u9707\u60c5\u5831",
+        "InfoKindVersion": "1.0_1",
+        "Headline": {
+            "Text": "\uff11\uff10\u65e5\uff10\uff15\u6642\uff12\uff14\u5206\u3053\u308d\u3001\u5730\u9707\u304c\u3042\u308a\u307e\u3057\u305f\u3002"
+        },
+        "enTitle": "Earthquake and Seismic Intensity Information"
+    },
+    "Body": {
+        "Earthquake": {
+            "OriginTime": "2021-07-10T05:23:00+09:00",
+            "ArrivalTime": "2021-07-10T05:24:00+09:00",
+            "Hypocenter": {
+                "Area": {
+                    "Name": "\u798f\u5cf6\u770c\u6c96",
+                    "Code": "289",
+                    "Coordinate": "+37.2+143.4-10000/",
+                    "enName": "Off the Coast of Fukushima Prefecture"
+                }
+            },
+            "Magnitude": "5.0"
+        },
+        "Intensity": {
+            "Observation": {
+                "MaxInt": "1",
+                "Pref": [
+                    {
+                        "Name": "\u9752\u68ee\u770c",
+                        "Code": "02",
+                        "MaxInt": "1",
+                        "Area": [
+                            {
+                                "Name": "\u9752\u68ee\u770c\u4e09\u516b\u4e0a\u5317",
+                                "Code": "202",
+                                "MaxInt": "1",
+                                "City": [
+                                    {
+                                        "Name": "\u968e\u4e0a\u753a",
+                                        "Code": "0244600",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u968e\u4e0a\u753a\u9053\u4ecf\uff0a",
+                                                "Code": "0244631",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 40.45,
+                                                    "lon": 141.62
+                                                },
+                                                "enName": "Hashikami-cho Dobutsu*"
+                                            }
+                                        ],
+                                        "enName": "Hashikami-cho"
+                                    }
+                                ],
+                                "enName": "Aomori Ken Sampachi-kamikita"
+                            }
+                        ],
+                        "enName": "Aomori"
+                    },
+                    {
+                        "Name": "\u5ca9\u624b\u770c",
+                        "Code": "03",
+                        "MaxInt": "1",
+                        "Area": [
+                            {
+                                "Name": "\u5ca9\u624b\u770c\u6cbf\u5cb8\u5357\u90e8",
+                                "Code": "211",
+                                "MaxInt": "1",
+                                "City": [
+                                    {
+                                        "Name": "\u5927\u8239\u6e21\u5e02",
+                                        "Code": "0320300",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u5927\u8239\u6e21\u5e02\u5927\u8239\u6e21\u753a",
+                                                "Code": "0320300",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 39.07,
+                                                    "lon": 141.71
+                                                },
+                                                "enName": "Ofunato-shi Ofunatocho"
+                                            }
+                                        ],
+                                        "enName": "Ofunato-shi"
+                                    },
+                                    {
+                                        "Name": "\u91dc\u77f3\u5e02",
+                                        "Code": "0321100",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u91dc\u77f3\u5e02\u4e2d\u59bb\u753a\uff0a",
+                                                "Code": "0321120",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 39.27,
+                                                    "lon": 141.86
+                                                },
+                                                "enName": "Kamaishi-shi Nakatsumacho*"
+                                            }
+                                        ],
+                                        "enName": "Kamaishi-shi"
+                                    },
+                                    {
+                                        "Name": "\u4f4f\u7530\u753a",
+                                        "Code": "0344100",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u4f4f\u7530\u753a\u4e16\u7530\u7c73\uff0a",
+                                                "Code": "0344131",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 39.14,
+                                                    "lon": 141.58
+                                                },
+                                                "enName": "Sumita-cho Setamai*"
+                                            }
+                                        ],
+                                        "enName": "Sumita-cho"
+                                    }
+                                ],
+                                "enName": "Iwate Ken Engan Nambu"
+                            },
+                            {
+                                "Name": "\u5ca9\u624b\u770c\u5185\u9678\u5357\u90e8",
+                                "Code": "213",
+                                "MaxInt": "1",
+                                "City": [
+                                    {
+                                        "Name": "\u4e00\u95a2\u5e02",
+                                        "Code": "0320900",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u4e00\u95a2\u5e02\u5343\u53a9\u753a\uff0a",
+                                                "Code": "0320936",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.92,
+                                                    "lon": 141.33
+                                                },
+                                                "enName": "Ichinoseki-shi Semmayacho*"
+                                            },
+                                            {
+                                                "Name": "\u4e00\u95a2\u5e02\u5ba4\u6839\u753a\uff0a",
+                                                "Code": "0320938",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.94,
+                                                    "lon": 141.44
+                                                },
+                                                "enName": "Ichinoseki-shi Muronecho*"
+                                            },
+                                            {
+                                                "Name": "\u4e00\u95a2\u5e02\u85e4\u6ca2\u753a\uff0a",
+                                                "Code": "0320939",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.86,
+                                                    "lon": 141.35
+                                                },
+                                                "enName": "Ichinoseki-shi Fujisawacho*"
+                                            }
+                                        ],
+                                        "enName": "Ichinoseki-shi"
+                                    }
+                                ],
+                                "enName": "Iwate Ken Nairiku Nambu"
+                            }
+                        ],
+                        "enName": "Iwate"
+                    },
+                    {
+                        "Name": "\u5bae\u57ce\u770c",
+                        "Code": "04",
+                        "MaxInt": "1",
+                        "Area": [
+                            {
+                                "Name": "\u5bae\u57ce\u770c\u5317\u90e8",
+                                "Code": "220",
+                                "MaxInt": "1",
+                                "City": [
+                                    {
+                                        "Name": "\u6c17\u4ed9\u6cbc\u5e02",
+                                        "Code": "0420500",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u6c17\u4ed9\u6cbc\u5e02\u7b39\u304c\u9663\uff0a",
+                                                "Code": "0420520",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.9,
+                                                    "lon": 141.57
+                                                },
+                                                "enName": "Kesennuma-shi Sasagajin*"
+                                            }
+                                        ],
+                                        "enName": "Kesennuma-shi"
+                                    },
+                                    {
+                                        "Name": "\u767b\u7c73\u5e02",
+                                        "Code": "0421200",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u767b\u7c73\u5e02\u4e2d\u7530\u753a",
+                                                "Code": "0421200",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.71,
+                                                    "lon": 141.24
+                                                },
+                                                "enName": "Tome-shi Nakadacho"
+                                            },
+                                            {
+                                                "Name": "\u767b\u7c73\u5e02\u5357\u65b9\u753a\uff0a",
+                                                "Code": "0421234",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.66,
+                                                    "lon": 141.16
+                                                },
+                                                "enName": "Tome-shi Minamikatamachi*"
+                                            },
+                                            {
+                                                "Name": "\u767b\u7c73\u5e02\u8feb\u753a\uff0a",
+                                                "Code": "0421236",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.69,
+                                                    "lon": 141.19
+                                                },
+                                                "enName": "Tome-shi Hasamacho*"
+                                            }
+                                        ],
+                                        "enName": "Tome-shi"
+                                    },
+                                    {
+                                        "Name": "\u6817\u539f\u5e02",
+                                        "Code": "0421300",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u6817\u539f\u5e02\u6817\u99d2",
+                                                "Code": "0421300",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.83,
+                                                    "lon": 140.99
+                                                },
+                                                "enName": "Kurihara-shi Kurikoma"
+                                            }
+                                        ],
+                                        "enName": "Kurihara-shi"
+                                    },
+                                    {
+                                        "Name": "\u5927\u5d0e\u5e02",
+                                        "Code": "0421500",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u5927\u5d0e\u5e02\u53e4\u5ddd\u4e09\u65e5\u753a",
+                                                "Code": "0421500",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.57,
+                                                    "lon": 140.96
+                                                },
+                                                "enName": "Osaki-shi Furukawa-mikkamachi"
+                                            },
+                                            {
+                                                "Name": "\u5927\u5d0e\u5e02\u53e4\u5ddd\u5927\u5d0e",
+                                                "Code": "0421501",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.6,
+                                                    "lon": 140.91
+                                                },
+                                                "enName": "Osaki-shi Furukawa-osaki"
+                                            },
+                                            {
+                                                "Name": "\u5927\u5d0e\u5e02\u7530\u5c3b\uff0a",
+                                                "Code": "0421535",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.6,
+                                                    "lon": 141.06
+                                                },
+                                                "enName": "Osaki-shi Tajiri*"
+                                            }
+                                        ],
+                                        "enName": "Osaki-shi"
+                                    },
+                                    {
+                                        "Name": "\u6d8c\u8c37\u753a",
+                                        "Code": "0450100",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u6d8c\u8c37\u753a\u65b0\u753a\u88cf",
+                                                "Code": "0450100",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.54,
+                                                    "lon": 141.13
+                                                },
+                                                "enName": "Wakuya-cho Shimmachi-ura"
+                                            }
+                                        ],
+                                        "enName": "Wakuya-cho"
+                                    },
+                                    {
+                                        "Name": "\u5357\u4e09\u9678\u753a",
+                                        "Code": "0460600",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u5357\u4e09\u9678\u753a\u5fd7\u6d25\u5ddd",
+                                                "Code": "0460601",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.68,
+                                                    "lon": 141.46
+                                                },
+                                                "enName": "Minami-sanriku-cho Shizugawa"
+                                            }
+                                        ],
+                                        "enName": "Minami-sanriku-cho"
+                                    }
+                                ],
+                                "enName": "Miyagi Ken Hokubu"
+                            },
+                            {
+                                "Name": "\u5bae\u57ce\u770c\u5357\u90e8",
+                                "Code": "221",
+                                "MaxInt": "1",
+                                "City": [
+                                    {
+                                        "Name": "\u540d\u53d6\u5e02",
+                                        "Code": "0420700",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u540d\u53d6\u5e02\u5897\u7530\uff0a",
+                                                "Code": "0420730",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.17,
+                                                    "lon": 140.89
+                                                },
+                                                "enName": "Natori-shi Masuda*"
+                                            }
+                                        ],
+                                        "enName": "Natori-shi"
+                                    },
+                                    {
+                                        "Name": "\u89d2\u7530\u5e02",
+                                        "Code": "0420800",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u89d2\u7530\u5e02\u89d2\u7530\uff0a",
+                                                "Code": "0420820",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.98,
+                                                    "lon": 140.78
+                                                },
+                                                "enName": "Kakuda-shi Kakuda*"
+                                            }
+                                        ],
+                                        "enName": "Kakuda-shi"
+                                    },
+                                    {
+                                        "Name": "\u5ca9\u6cbc\u5e02",
+                                        "Code": "0421100",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u5ca9\u6cbc\u5e02\u685c\uff0a",
+                                                "Code": "0421120",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.1,
+                                                    "lon": 140.87
+                                                },
+                                                "enName": "Iwanuma-shi Sakura*"
+                                            }
+                                        ],
+                                        "enName": "Iwanuma-shi"
+                                    },
+                                    {
+                                        "Name": "\u5bae\u57ce\u5ddd\u5d0e\u753a",
+                                        "Code": "0432400",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u5bae\u57ce\u5ddd\u5d0e\u753a\u524d\u5ddd\uff0a",
+                                                "Code": "0432430",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.18,
+                                                    "lon": 140.64
+                                                },
+                                                "enName": "Miyagi Kawasaki-machi Maekawa*"
+                                            }
+                                        ],
+                                        "enName": "Miyagi Kawasaki-machi"
+                                    }
+                                ],
+                                "enName": "Miyagi Ken Nambu"
+                            },
+                            {
+                                "Name": "\u5bae\u57ce\u770c\u4e2d\u90e8",
+                                "Code": "222",
+                                "MaxInt": "1",
+                                "City": [
+                                    {
+                                        "Name": "\u4ed9\u53f0\u5bae\u57ce\u91ce\u533a",
+                                        "Code": "0410200",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u4ed9\u53f0\u5bae\u57ce\u91ce\u533a\u4e94\u8f2a",
+                                                "Code": "0410201",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.26,
+                                                    "lon": 140.9
+                                                },
+                                                "enName": "Sendai Miyagino-ku Gorin"
+                                            },
+                                            {
+                                                "Name": "\u4ed9\u53f0\u5bae\u57ce\u91ce\u533a\u82e6\u7af9\uff0a",
+                                                "Code": "0410221",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.27,
+                                                    "lon": 140.93
+                                                },
+                                                "enName": "Sendai Miyagino-ku Nigatake*"
+                                            }
+                                        ],
+                                        "enName": "Sendai Miyagino-ku"
+                                    },
+                                    {
+                                        "Name": "\u77f3\u5dfb\u5e02",
+                                        "Code": "0420200",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u77f3\u5dfb\u5e02\u6cc9\u753a",
+                                                "Code": "0420202",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.43,
+                                                    "lon": 141.3
+                                                },
+                                                "enName": "Ishinomaki-shi Izumicho"
+                                            },
+                                            {
+                                                "Name": "\u77f3\u5dfb\u5e02\u5927\u8857\u9053\u5357\uff0a",
+                                                "Code": "0420226",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.43,
+                                                    "lon": 141.28
+                                                },
+                                                "enName": "Ishinomaki-shi Okaido-minami*"
+                                            },
+                                            {
+                                                "Name": "\u77f3\u5dfb\u5e02\u5317\u4e0a\u753a\uff0a",
+                                                "Code": "0420227",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.57,
+                                                    "lon": 141.43
+                                                },
+                                                "enName": "Ishinomaki-shi Kitakamicho*"
+                                            },
+                                            {
+                                                "Name": "\u77f3\u5dfb\u5e02\u6843\u751f\u753a\uff0a",
+                                                "Code": "0420239",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.56,
+                                                    "lon": 141.24
+                                                },
+                                                "enName": "Ishinomaki-shi Monoucho*"
+                                            }
+                                        ],
+                                        "enName": "Ishinomaki-shi"
+                                    },
+                                    {
+                                        "Name": "\u677e\u5cf6\u753a",
+                                        "Code": "0440100",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u677e\u5cf6\u753a\u9ad8\u57ce",
+                                                "Code": "0440101",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 38.39,
+                                                    "lon": 141.07
+                                                },
+                                                "enName": "Matsushima-machi Takagi"
+                                            }
+                                        ],
+                                        "enName": "Matsushima-machi"
+                                    }
+                                ],
+                                "enName": "Miyagi Ken Chubu"
+                            }
+                        ],
+                        "enName": "Miyagi"
+                    },
+                    {
+                        "Name": "\u798f\u5cf6\u770c",
+                        "Code": "07",
+                        "MaxInt": "1",
+                        "Area": [
+                            {
+                                "Name": "\u798f\u5cf6\u770c\u4e2d\u901a\u308a",
+                                "Code": "250",
+                                "MaxInt": "1",
+                                "City": [
+                                    {
+                                        "Name": "\u767d\u6cb3\u5e02",
+                                        "Code": "0720500",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u767d\u6cb3\u5e02\u90ed\u5185",
+                                                "Code": "0720500",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.13,
+                                                    "lon": 140.22
+                                                },
+                                                "enName": "Shirakawa-shi Kakunai"
+                                            },
+                                            {
+                                                "Name": "\u767d\u6cb3\u5e02\u65b0\u767d\u6cb3\uff0a",
+                                                "Code": "0720520",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.12,
+                                                    "lon": 140.19
+                                                },
+                                                "enName": "Shirakawa-shi Shin-shirakawa*"
+                                            }
+                                        ],
+                                        "enName": "Shirakawa-shi"
+                                    },
+                                    {
+                                        "Name": "\u4e8c\u672c\u677e\u5e02",
+                                        "Code": "0721000",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u4e8c\u672c\u677e\u5e02\u6cb9\u4e95\uff0a",
+                                                "Code": "0721031",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.61,
+                                                    "lon": 140.46
+                                                },
+                                                "enName": "Nihommatsu-shi Yui*"
+                                            }
+                                        ],
+                                        "enName": "Nihommatsu-shi"
+                                    },
+                                    {
+                                        "Name": "\u7530\u6751\u5e02",
+                                        "Code": "0721100",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u7530\u6751\u5e02\u5e38\u8449\u753a\uff0a",
+                                                "Code": "0721133",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.44,
+                                                    "lon": 140.64
+                                                },
+                                                "enName": "Tamura-shi Tokiwamachi*"
+                                            },
+                                            {
+                                                "Name": "\u7530\u6751\u5e02\u90fd\u8def\u753a\uff0a",
+                                                "Code": "0721134",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.44,
+                                                    "lon": 140.79
+                                                },
+                                                "enName": "Tamura-shi Miyakojimachi*"
+                                            }
+                                        ],
+                                        "enName": "Tamura-shi"
+                                    },
+                                    {
+                                        "Name": "\u798f\u5cf6\u4f0a\u9054\u5e02",
+                                        "Code": "0721300",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u798f\u5cf6\u4f0a\u9054\u5e02\u970a\u5c71\u753a\uff0a",
+                                                "Code": "0721333",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.78,
+                                                    "lon": 140.6
+                                                },
+                                                "enName": "Fukushima Date-shi Ryozemmachi*"
+                                            }
+                                        ],
+                                        "enName": "Fukushima Date-shi"
+                                    },
+                                    {
+                                        "Name": "\u68da\u5009\u753a",
+                                        "Code": "0748100",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u68da\u5009\u753a\u68da\u5009\u4e2d\u5c45\u91ce",
+                                                "Code": "0748101",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.03,
+                                                    "lon": 140.38
+                                                },
+                                                "enName": "Tanagura-machi Tanagura-nakaino"
+                                            }
+                                        ],
+                                        "enName": "Tanagura-machi"
+                                    },
+                                    {
+                                        "Name": "\u6d45\u5ddd\u753a",
+                                        "Code": "0750400",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u6d45\u5ddd\u753a\u6d45\u5ddd\uff0a",
+                                                "Code": "0750430",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.08,
+                                                    "lon": 140.41
+                                                },
+                                                "enName": "Asakawa-machi Asakawa*"
+                                            }
+                                        ],
+                                        "enName": "Asakawa-machi"
+                                    }
+                                ],
+                                "enName": "Fukushima Ken Nakadori"
+                            },
+                            {
+                                "Name": "\u798f\u5cf6\u770c\u6d5c\u901a\u308a",
+                                "Code": "251",
+                                "MaxInt": "1",
+                                "City": [
+                                    {
+                                        "Name": "\u3044\u308f\u304d\u5e02",
+                                        "Code": "0720400",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u3044\u308f\u304d\u5e02\u4e09\u548c\u753a",
+                                                "Code": "0720401",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.1,
+                                                    "lon": 140.8
+                                                },
+                                                "enName": "Iwaki-shi Miwamachi"
+                                            }
+                                        ],
+                                        "enName": "Iwaki-shi"
+                                    },
+                                    {
+                                        "Name": "\u76f8\u99ac\u5e02",
+                                        "Code": "0720900",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u76f8\u99ac\u5e02\u4e2d\u6751\uff0a",
+                                                "Code": "0720932",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.8,
+                                                    "lon": 140.92
+                                                },
+                                                "enName": "Soma-shi Nakamura*"
+                                            }
+                                        ],
+                                        "enName": "Soma-shi"
+                                    },
+                                    {
+                                        "Name": "\u5357\u76f8\u99ac\u5e02",
+                                        "Code": "0721200",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u5357\u76f8\u99ac\u5e02\u539f\u753a\u533a\u9ad8\u898b\u753a\uff0a",
+                                                "Code": "0721220",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.64,
+                                                    "lon": 140.98
+                                                },
+                                                "enName": "Minami-soma-shi Haramachiku-takamicho*"
+                                            }
+                                        ],
+                                        "enName": "Minami-soma-shi"
+                                    },
+                                    {
+                                        "Name": "\u6962\u8449\u753a",
+                                        "Code": "0754200",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u6962\u8449\u753a\u5317\u7530\uff0a",
+                                                "Code": "0754230",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.28,
+                                                    "lon": 140.99
+                                                },
+                                                "enName": "Naraha-machi Kitada*"
+                                            }
+                                        ],
+                                        "enName": "Naraha-machi"
+                                    },
+                                    {
+                                        "Name": "\u5927\u718a\u753a",
+                                        "Code": "0754500",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u5927\u718a\u753a\u5927\u5ddd\u539f\uff0a",
+                                                "Code": "0754531",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.38,
+                                                    "lon": 140.96
+                                                },
+                                                "enName": "Okuma-machi Oogawara*"
+                                            }
+                                        ],
+                                        "enName": "Okuma-machi"
+                                    },
+                                    {
+                                        "Name": "\u6d6a\u6c5f\u753a",
+                                        "Code": "0754700",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u6d6a\u6c5f\u753a\u5e7e\u4e16\u6a4b",
+                                                "Code": "0754700",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 37.49,
+                                                    "lon": 141.0
+                                                },
+                                                "enName": "Namie-machi Kiyohashi"
+                                            }
+                                        ],
+                                        "enName": "Namie-machi"
+                                    }
+                                ],
+                                "enName": "Fukushima Ken Hamadori"
+                            }
+                        ],
+                        "enName": "Fukushima"
+                    },
+                    {
+                        "Name": "\u8328\u57ce\u770c",
+                        "Code": "08",
+                        "MaxInt": "1",
+                        "Area": [
+                            {
+                                "Name": "\u8328\u57ce\u770c\u5317\u90e8",
+                                "Code": "300",
+                                "MaxInt": "1",
+                                "City": [
+                                    {
+                                        "Name": "\u7b20\u9593\u5e02",
+                                        "Code": "0821600",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u7b20\u9593\u5e02\u77f3\u4e95\uff0a",
+                                                "Code": "0821620",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 36.39,
+                                                    "lon": 140.24
+                                                },
+                                                "enName": "Kasama-shi Ishii*"
+                                            }
+                                        ],
+                                        "enName": "Kasama-shi"
+                                    }
+                                ],
+                                "enName": "Ibaraki Ken Hokubu"
+                            }
+                        ],
+                        "enName": "Ibaraki"
+                    },
+                    {
+                        "Name": "\u7fa4\u99ac\u770c",
+                        "Code": "10",
+                        "MaxInt": "1",
+                        "Area": [
+                            {
+                                "Name": "\u7fa4\u99ac\u770c\u5357\u90e8",
+                                "Code": "321",
+                                "MaxInt": "1",
+                                "City": [
+                                    {
+                                        "Name": "\u6e0b\u5ddd\u5e02",
+                                        "Code": "1020800",
+                                        "MaxInt": "1",
+                                        "IntensityStation": [
+                                            {
+                                                "Name": "\u6e0b\u5ddd\u5e02\u8d64\u57ce\u753a\uff0a",
+                                                "Code": "1020836",
+                                                "Int": "1",
+                                                "latlon": {
+                                                    "lat": 36.53,
+                                                    "lon": 139.04
+                                                },
+                                                "enName": "Shibukawa-shi Akagimachi*"
+                                            }
+                                        ],
+                                        "enName": "Shibukawa-shi"
+                                    }
+                                ],
+                                "enName": "Gunma Ken Nambu"
+                            }
+                        ],
+                        "enName": "Gunma"
+                    }
+                ]
+            }
+        },
+        "Comments": {
+            "ForecastComment": {
+                "Text": "\u3053\u306e\u5730\u9707\u306b\u3088\u308b\u6d25\u6ce2\u306e\u5fc3\u914d\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+                "Code": "0215",
+                "enText": "This earthquake poses no tsunami risk.\n"
+            },
+            "VarComment": {
+                "Text": "\uff0a\u5370\u306f\u6c17\u8c61\u5e81\u4ee5\u5916\u306e\u9707\u5ea6\u89b3\u6e2c\u70b9\u306b\u3064\u3044\u3066\u306e\u60c5\u5831\u3067\u3059\u3002",
+                "Code": "0262",
+                "enText": "* mark: Local Governments' or NIED's station\n"
+            }
+        }
+    }
+}
